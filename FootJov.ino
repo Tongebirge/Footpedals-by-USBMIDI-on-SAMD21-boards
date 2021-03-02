@@ -5,7 +5,7 @@
 #include "MIDIUSB.h"
 
 // define pin 
-const int susPin = 5;
+const int susPin = 6;
 const int expPin = A7;
 const int susConnectPin = 8;
 const int expConnectPin = 9;
