@@ -3,9 +3,9 @@ USB-MIDI Foot controllers interface
 ![IMG_0014](https://user-images.githubusercontent.com/7828838/109469058-dd443680-7ab0-11eb-8f92-7d7aff9319cd.jpg)
 
 ## Overview
-An interface box just for sustain pedal and expression pedal. Just connect the board to a USB-MIDI host and you're ready to go.
+An interface box just for a sustain pedal and expression pedal. Just connect the board to a USB-MIDI host and you're ready to go.
 
-The sustain pedal has polarity, but this program automatically recognizes it at startup, so you can use either one.
+The sustain pedal has a polarity, but this program automatically recognizes it at startup, so you can use either one.
 
 In my test, I used Seeed studio's XIAO, but I think it can be used with other SAMD21 boards and USB host boards.
 
