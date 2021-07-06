@@ -1,4 +1,4 @@
-# FootJov
+# Footpedals by USBMIDI on SAMD21 boards
 USB-MIDI Foot controllers interface
 ![IMG_0014](https://user-images.githubusercontent.com/7828838/109469058-dd443680-7ab0-11eb-8f92-7d7aff9319cd.jpg)
 
