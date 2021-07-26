@@ -18,6 +18,12 @@ I still have some ideas. I will update it when that time comes.
 ![IMG_0010](https://user-images.githubusercontent.com/7828838/109469773-d5d15d00-7ab1-11eb-96b9-bbce5ab7564e.jpg)
 I tested with Seeed XIAO(SAMD21) board.
 
+| board | work | don't |
+|--|--|--|
+|Seeed XIAO | Tested | |
+|Teensy LC | Tested | |
+
+
 ##### Parts
 + Seeed XIAO (or other boards)
 + **Two** 6.35mm Phone jacks with momentary switch
