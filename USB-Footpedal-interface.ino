@@ -1,6 +1,6 @@
-// FOOTJOV
-// Made by Tongebirge/Leo Kuroshita
-// v0.5
+// USB-Footpedal-interface
+// Made by Leo Kuroshita for Hugelton. Kobe,Japan.
+// v0.6
 
 #pragma once
 #include "MIDIUSB.h" // requested MIDIUSB library
